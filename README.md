@@ -31,7 +31,7 @@ MCP-compatible interface via server.ts</pre>
 
 Clone the repo and install dependencies:
 
-<pre>git clone https://github.com/yourusername/mobsf-mcp.git
+<pre>git clone https://github.com/curiv/mobsf-mcp-server
 cd mobsf-mcp
 npm install </pre>
 
